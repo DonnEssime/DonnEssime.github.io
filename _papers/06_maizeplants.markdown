@@ -11,9 +11,9 @@ In the end we have a mix of careful calibration, machine learning for segmentati
 Over the fitted leaves, we also model their width.
 In the end, we can automatically measure leaf lengths and areas for the plants, as fast as the PhenoVision system is able to image them.
 
-[Abstract1](/papers/BAHAMAS_abstract1.pdf)
-[Poster1](/papers/BAHAMAS_poster1.pdf)
-[Abstract2](/papers/BAHAMAS_abstract2.pdf)
-[Poster2](/papers/BAHAMAS_poster2.pdf)
-[Poster3](/papers/BAHAMAS_poster3.pdf)
+[Abstract1](/papers/BAHAMAS_abstract_1.pdf)
+[Poster1](/papers/BAHAMAS_poster_1.pdf)
+[Abstract2](/papers/BAHAMAS_abstract_2.pdf)
+[Poster2](/papers/BAHAMAS_poster_2.pdf)
+[Poster3](/papers/BAHAMAS_poster_3.pdf)
 [Video](/video/BAHAMAS.mp4)
